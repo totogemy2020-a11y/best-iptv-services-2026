@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://totogemy2020-a11y.github.io/best-iptv-services-2026/sitemap.xml
